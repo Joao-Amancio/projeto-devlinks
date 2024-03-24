@@ -18,10 +18,10 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 
-Olá! Seja bem vindo(a)!!! Fique a vontade pra navegar aqui e conhecer este Projeto de Formulário digital que está incrível!
+Olá! Seja bem vindo(a)!!! Fique a vontade pra navegar aqui e conhecer o Projeto devlinks que está incrível!
 
 
-Imagem do Formulário abaixo, vista pelo desktop.
+Imagem do projeto devlinks, vista pelo desktop.
 
 <br>
 
