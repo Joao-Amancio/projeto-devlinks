@@ -17,6 +17,14 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 
 <br>
 
+
+Olá! Seja bem vindo(a)!!! Fique a vontade pra navegar aqui e conhecer o Projeto devlinks que está incrível!
+
+
+Imagem do projeto devlinks, vista pelo desktop.
+
+<br>
+
 <p align="center">
   <img alt="projeto DevLinks" src="https://github.com/Joao-Amancio/projeto-devlinks/assets/150720801/8f68978a-85b6-4301-94be-d68cb3209a64"100%">
 </p>
@@ -47,5 +55,19 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 Esse projeto está sob a licença MIT.
 
 ---
+
+<p align="center">
+  <b>Contate-me</b>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jr-am%C3%A2ncio-66b6312a6/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://wa.me/5581996174799" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="https://www.facebook.com/?locale=pt_BR" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
+  <a href="https://instagram.com/junior.amancio" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
 
 Feito com ♥ by Amancio Jr, Através da Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
